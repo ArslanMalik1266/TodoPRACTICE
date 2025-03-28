@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1395487411",
+    "project_id": "todopractice-f6204",
+    "storage_bucket": "todopractice-f6204.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1395487411:android:0321447e01306fd79536c6",
+        "android_client_info": {
+          "package_name": "com.example.todopractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO_wtknxENCFfonWX4JdOjU2SRhA6aTh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#1A1A1A</color> <!-- Darker black for better contrast -->
+    <color name="white">#FFFFFF</color> <!-- Pure white -->
+    <color name="blue_text">#6200EE</color> <!-- Vibrant purple-blue -->
+    <color name="blue_text_light">#BB86FC</color> <!-- Lighter purple-blue -->
+    <color name="red">#FF3B30</color> <!-- Bright red for alerts -->
+    <color name="light_blue">#E3F2FD</color> <!-- Soft light blue for backgrounds -->
+    <color name="purple_text">#3700B3</color> <!-- Deep purple for accents -->
+    <color name="green">#4CAF50</color> <!-- Fresh green for success states -->
+    <color name="teal">#03DAC6</color> <!-- Teal for highlights -->
+    <color name="orange">#FFA500</color> <!-- Vibrant orange for accents -->
+    <color name="pink">#FF4081</color> <!-- Pink for playful elements -->
+    <color name="dark_gray">#424242</color> <!-- Dark gray for text -->
+    <color name="light_gray">#F5F5F5</color>
+</resources>
